@@ -16,4 +16,6 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
